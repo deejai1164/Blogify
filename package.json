@@ -1,7 +1,7 @@
 {
-  "name": "youtube-blog",
+  "name": "blogify",
   "version": "1.0.0",
-  "description": "",
+  "description": "A modern blogging platform built with Node.js, Express, MongoDB, and EJS",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
